@@ -1,12 +1,7 @@
-<h1 align="center">
-  
-Valida CPF
 
-</h1>
 
 <p align="center">
  <a href="#-shorts-summary">Sobre</a> •
- <a href="#-demo">Demo</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> 
 </p>
@@ -21,19 +16,11 @@ O algoritmo de validação verifica se o número do CPF é válido através de c
 
 <br><br>
 
-## 🔗 Demo
-
-Acesse a demonstração aqui.
-
-<br><br>
-
 ## 🚀 Como executar o projeto
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Não há requisitos.
 
 #### 🧭 Rodando a aplicação web
 
@@ -41,17 +28,6 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 # Clone este repositório
 $ git clone https://github.com/guisant/valida_cpf.git
-
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd valida_cpf
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm start
-
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
 ```
 
